@@ -18,6 +18,20 @@ I'm a **Frontend Developer** from Belarus. I'm passionate about building accessi
 
 - **Structured data** (JSON-LD microdata)
 
+- **State persistence using localStorage**
+
+- **API integrations** (OpenWeather, Pexels, Fancyapps)
+
+- **Pixel Perfect** layout
+
+- **Game Development from Scratch** – Designed and developed the entire game from concept to implementation, including the storyline, game mechanics, and user interactions.
+
+- **Game Logic & Algorithms**: Developed game algorithms to check for win/loss conditions.
+
+- **Fullscreen Mode Implementation**: Optimizing games for fullscreen experience.
+
+- **Theme Switching**: Implemented a feature for users to toggle between light and dark themes, which persists across app sessions.
+
 - **Pre-rendering for SEO with React Snap**
 
 - **Image optimization**: WebP format, lazy loading, preloading critical images
@@ -56,7 +70,7 @@ I'm a **Frontend Developer** from Belarus. I'm passionate about building accessi
 
 - ⚙️ **Fully custom modal system** with accessibility features (keyboard focus trap, ESC to close)
 
-- 🎯 **Zero UI breakage on API fetch errors** — app gracefully displays a styled fallback block
+- 🎯 **Zero UI breakage on API fetch errors** — Ensured zero UI breakage on API fetch errors
 
 - 🔍 **Rich Google Snippets Ready** — with valid JSON-LD structured data (tested via Rich Results Test)
 
@@ -77,18 +91,15 @@ I'm a **Frontend Developer** from Belarus. I'm passionate about building accessi
 ## 📂 Projects
 Here are some of my recent projects:
 
+- **[Website for a Shower Partition installations company](https://w0x3r.github.io/Showers-Gomel/)** — This project is a responsive corporate website built from the ground up in React.
 
-
-
-- **[Website for a Shower Partition installations company](https://w0x3r.github.io/Shower-Partitions-APP/)** — This project is a responsive corporate website built from the ground up in React.
-
-- **[Momentum](https://github.com/W0x3R/Momentum)** — Momentum is an analog of the app of the same name of the Chrome Web Store. The application shows the time and user name. The background image and greeting change depending on the time of day. The app has a clock, image slider, weather widgets, audio player, quote of the day block, and settings. Local storage - local storage is used to store the user name and locality.
+- **[Momentum](https://w0x3r.github.io/Momentum/)** — Momentum is an analog of the app of the same name of the Chrome Web Store. The application shows the time and user name. The background image and greeting change depending on the time of day. The app has a clock, image slider, weather widgets, audio player, quote of the day block, and settings. Local storage - local storage is used to store the user name and locality.
 
 - **[Shelter](https://w0x3r.github.io/Shelter/)** — Shelter is a landing page that helps you give a chance to a small and cute puppy or kitten with a very wide and open heart. He or she will love you more than anyone else in the world, you'll see!
 
 - **[Plants](https://w0x3r.github.io/Plants/)** — Plants is a landing page that offers its services for growing plants in the garden and caring for them.
 
-- **[Todo App](w0x3r.github.io/TODO-APP/)** — ToDo is a great app for keeping yourself organized and on track with all the things that you have to do! It's very intuitive and easy to navigate.
+- **[Todo App](https://w0x3r.github.io/TODO-APP/)** — ToDo is a great app for keeping yourself organized and on track with all the things that you have to do! It's very intuitive and easy to navigate.
 
 - **[The devil will find you](https://w0x3r.github.io/The-devil-will-find-you/)** — The world collapsed when the king of hell took over. Everyone who tried to stop him before you is dead. In order to end this once and for all, you need to click on the button above. After you click on it, the spell book will open and the summoning of the king of hell will begin. Remember that once you click, there is no going back. If you still dare to press, then you will need to catch 10 pentagrams in order to put an end to this terrible creature once and for all. Be careful and persistent, the king of hell will try in every possible way to interfere with you, moving the pentagram to different parts of the screen.
 Good luck.
@@ -114,4 +125,4 @@ Good luck.
 
 - 📧 [Email](mailto:vyrski@yandex.by)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/stanislau-virsky-280505267/)
-- 🌍 [My Portfolio](link)
+- 🌍 [My Portfolio](https://w0x3r.github.io/Stanislau_Vyrski/)
