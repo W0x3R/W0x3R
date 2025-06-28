@@ -68,6 +68,10 @@ I'm a **Frontend Developer** from Belarus. I'm passionate about building accessi
 
 ## 🏆 Achievements
 
+- 🔑 **Developed** multiple responsive websites using **React** and **Vite**.
+- 🪂 **Implemented modern SCSS techniques** like variables, mixins, and modular CSS.
+- 🦾 Integrated **SEO** techniques using **React Helmet** for better search engine visibility.
+
 - ⚙️ **Fully custom modal system** with accessibility features (keyboard focus trap, ESC to close)
 
 - 🎯 **Zero UI breakage on API fetch errors** — Ensured zero UI breakage on API fetch errors
@@ -101,22 +105,19 @@ Here are some of my recent projects:
 
 - **[Todo App](https://w0x3r.github.io/TODO-APP/)** — ToDo is a great app for keeping yourself organized and on track with all the things that you have to do! It's very intuitive and easy to navigate.
 
-- **[The devil will find you](https://w0x3r.github.io/The-devil-will-find-you/)** — The world collapsed when the king of hell took over. Everyone who tried to stop him before you is dead. In order to end this once and for all, you need to click on the button above. After you click on it, the spell book will open and the summoning of the king of hell will begin. Remember that once you click, there is no going back. If you still dare to press, then you will need to catch 10 pentagrams in order to put an end to this terrible creature once and for all. Be careful and persistent, the king of hell will try in every possible way to interfere with you, moving the pentagram to different parts of the screen. Good luck.
+- **[The devil will find you](https://w0x3r.github.io/The-devil-will-find-you/)** — The world collapsed when the king of hell took over. Everyone who tried to stop him before you is dead. In order to end this once and for all, you need to click on the button above. After you click on it, the spell book will open and the summoning of the king of hell will begin. Remember that once you click, there is no going back. If you still dare to press, then you will need to catch 10 pentagrams in order to put an end to this terrible creature once and for all. Be careful and persistent, the king of hell will try in every possible way to interfere with you, moving the pentagram to different parts of the screen.
+Good luck.
 
 - **[Tic Tac Toe](https://w0x3r.github.io/Tic-Tac-Toe/)** — Tic-tac-toe is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. It is a solved game, with a forced draw assuming best play from both players.
 
 - **[Football-Pong](https://w0x3r.github.io/Football-Pong/)** — Football-pong is an exciting two-player game where opponents take turns clicking on the ball, sending it in a random direction towards the enemy goal! Play on the same computer, battling each other on the soccer field, and watch as each click brings the ball closer to the coveted goal. A simple but dynamic game where every move can be decisive!
 
 
+Good luck.
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w0x3r&show_icons=true&hide_title=true&hide=prs)
-
-## 🚀 Achievements
-
-- Developed multiple responsive websites using **React** and **Vite**.
-- Implemented modern **SCSS** techniques like variables, mixins, and modular CSS.
-- Integrated **SEO** techniques using **React Helmet** for better search engine visibility.
 
 ## 📬 How to reach me:
 
