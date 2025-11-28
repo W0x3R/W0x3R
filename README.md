@@ -1,126 +1,80 @@
 # Hello, I'm Stanislau Vyrski! 👋
 
-I'm a **Frontend Developer** from Belarus. I'm passionate about building accessible, high-performance web apps with clean code and modern tools. I love turning complex ideas into fast and user-friendly interfaces.
+I'm a **Frontend Developer** from Belarus. I build fast, responsive, and accessible (A11Y) web applications with clean, maintainable code. I enjoy turning complex ideas into user-friendly interfaces and working on real production projects.
+
 
 ## 📌 Key Skills
 
-- **Semantic HTML & Modern CSS** (SCSS, BEM)
+- **Frontend Development**: HTML5, Pug, CSS3, SCSS, BEM, Tailwind CSS, JavaScript, TypeScript, React.
 
-- **Responsive layout & accessibility (a11y)** (keyboard navigation, focus-lock, aria-*, ESC/Tab behavior)
+- **Performance & SEO**: Code splitting, critical CSS, Image WebP, preloading assets, font subsetting, React-lazy + Suspense, React Snap, SEO optimization (meta tags, Open Graph, JSON-LD, sitemap, robots.txt).
 
-- **Component-based development with React**
+- **State Management & API**: Redux Toolkit + RTK Query, localStorage, API integration (JSONPlaceholder, OpenWeather, Pexels).
 
-- **SPA with React Router & lazy-loaded routes** (React.lazy + Suspense)
+- **UX & Accessibility**: Keyboard navigation, focus trap, ARIA attributes, WCAG compliance.
 
-- **Code splitting & critical styles inline and external**
+- **UI & Animation**: Reusable UI components, template selectors, global animation config (GSAP).
 
-- **SEO & Open Graph optimization** (meta tags, sitemap, robots.txt)
+- **Form Handling**: Validation, error handling, email sending, modals with focus lock.
 
-- **Structured data** (JSON-LD microdata)
+- **Tools**: Git, GitHub, ESLint, Prettier, Webpack, Vite, Pixel Perfect.
 
-- **State persistence using localStorage**
-
-- **API integrations** (OpenWeather, Pexels, Fancyapps)
-
-- **Pixel Perfect** layout
-
-- **Game Development from Scratch** – Designed and developed the entire game from concept to implementation, including the storyline, game mechanics, and user interactions.
-
-- **Game Logic & Algorithms**: Developed game algorithms to check for win/loss conditions.
-
-- **Fullscreen Mode Implementation**: Optimizing games for fullscreen experience.
-
-- **Theme Switching**: Implemented a feature for users to toggle between light and dark themes, which persists across app sessions.
-
-- **Pre-rendering for SEO with React Snap**
-
-- **Image optimization**: WebP format, lazy loading, preloading critical images
-
-- **Font optimization**: modern formats, subsetting (language/charset trimming), preload
-
-- **Reusable UI components & template selectors**
-
-- **Animation system** (global animation file with transitions)
-
-- **Data-driven rendering using .map() from data/ folder**
-
-- **Form handling with validation, error handling, email sending**
-
-- **Project structure & architecture for scalability**
-
-- **Linting & formatting with ESLint + Prettier**
-
-- **Version control with Git & GitHub (feature branches, commits, README)**
-
-- **Webpack & Vite experience (bundling, assets, performance tweaks)**
-
-## 🛠️ Technologies & Tools:
-
-- **Frontend**: HTML, CSS, SCSS, JS, React
-- **Linting & Formatting**: ESLint, Prettier
-- **Version Control**: Git, GitHub
-- **Build Tools**: Webpack, Vite, React-Snap
-
-## 🌱 What I am currently learning:
-- Deepening my knowledge of **JS** and **React**.
-- Exploring **TypeScript** for better type safety.
-- Working on improving performance and scalability of applications.
+## 🌱 Currently learning:
+- Deepening **JS**, **React** and **TypeScript** skills.
+- Improving performance, scalability and accessibility of web applications.
 
 ## 🏆 Achievements
 
-- 🔑 **Developed** multiple responsive websites using **React** and **Vite**.
-- 🪂 **Implemented modern SCSS techniques** like variables, mixins, and modular CSS.
+- 🔑 Developed **responsive, SEO-friendly websites using React and Vite**.
+
+- 🪂 Implemented **modern SCSS techniques**: modular SCSS, variables, mixins.
+
 - 🦾 Integrated **SEO** techniques using **React Helmet** for better search engine visibility.
 
-- ⚙️ **Fully custom modal system** with accessibility features (keyboard focus trap, ESC to close)
+- ⚙️ Built **fully accessible modal & form system** with keyboard navigation.
 
-- 🎯 **Zero UI breakage on API fetch errors** — Ensured zero UI breakage on API fetch errors
+- 🎯 Ensured **zero UI breakage on API errors**.
 
-- 🔍 **Rich Google Snippets Ready** — with valid JSON-LD structured data (tested via Rich Results Test)
+- 🧩 Created **reusable design system** for consistent styling.
 
-- 🧼 **Clean and maintainable architecture** with separation of concerns (components, data, utilities)
+- 🧠 Applied advanced **optimization techniques**: critical CSS, lazy-loading, code splitting, font subsetting, image WebP conversion, preloading assets.
 
-- 💡 **Critical CSS strategy**: critical styles are both inlined and extracted for maximum performance
+- 📦 Delivered production-level projects under **strict deadlines and code review processes**.
 
-- 🧩 **Reusable design system** using template selectors for consistent styling
+- 🎮 **Game Development from Scratch** – Designed and developed the entire game from concept to implementation, including the storyline, game mechanics, and user interactions.
 
-- 🚀 **Form UX**: modal forms with state-based redirects after submission (success/error page)
+- 🔅 **Theme Switching** – Implemented a feature for users to toggle between light and dark themes, which persists across app sessions.
 
-- 🧠 **Advanced optimization techniques**: font subsetting, image WebP conversion, preloading assets
+- 🏫 **Completed Aston React Intensive** — Built a Posts & Comments Viewer SPA with React, TypeScript, Redux Toolkit + RTK Query following FSD architecture.
 
-- 📦 **Bundle optimization** with lazy routes, code splitting, tree shaking and minimized assets
-
-- 🎨 **Global animation config** for smooth transitions and centralized animation control
+- 💼 **Completed Only Digital Internship** — Delivered 6 production-like projects using JavaScript classes, OOP, TypeScript, GSAP, Pug, and SCSS/BEM under strict code review and deadlines.
 
 ## 📂 Projects
-Here are some of my recent projects:
 
-- **[Website for a Shower Partition installations company](https://w0x3r.github.io/Showers-Gomel/)** — This project is a responsive corporate website built from the ground up in React.
+- **[Posts & Comments Viewer (Aston)](https://w0x3r.github.io/React-Intensive-Project/#/posts)** — Developed a SPA using the JSONPlaceholder API with routing, global state, caching, and optimized API handling.
 
-- **[Momentum](https://w0x3r.github.io/Momentum/)** — Momentum is an analog of the app of the same name of the Chrome Web Store. The application shows the time and user name. The background image and greeting change depending on the time of day. The app has a clock, image slider, weather widgets, audio player, quote of the day block, and settings. Local storage - local storage is used to store the user name and locality.
+- **[Shower Partitions Website — Real Client Project](https://w0x3r.github.io/Showers-Gomel/)** — Developed a responsive, accessible, and SEO-optimized website for a real client using semantic HTML, SCSS Modules, full keyboard navigation, and optimized performance (lazy loading, critical CSS, WebP images, optimized font loading). Integrated React Helmet and React Snap for static pre-rendering and dynamic meta management.
 
-- **[Shelter](https://w0x3r.github.io/Shelter/)** — Shelter is a landing page that helps you give a chance to a small and cute puppy or kitten with a very wide and open heart. He or she will love you more than anyone else in the world, you'll see!
+- **[Momentum SPA (RS School)](https://w0x3r.github.io/Momentum/)** — Developed a responsive SPA with a weather widget, audio player, dynamic greeting, daily quote, and customizable UI blocks. Backgrounds update based on time of day and keyword search.
 
-- **[Plants](https://w0x3r.github.io/Plants/)** — Plants is a landing page that offers its services for growing plants in the garden and caring for them.
+- **[Shelter Landing Page (RS School)](https://w0x3r.github.io/Shelter/)** — Developed a responsive landing page with an adaptive burger menu, infinite carousel slider, custom pagination, and pixel-perfect layout.
 
-- **[Todo App](https://w0x3r.github.io/TODO-APP/)** — ToDo is a great app for keeping yourself organized and on track with all the things that you have to do! It's very intuitive and easy to navigate.
+- **[Plants Landing Page (RS School)](https://w0x3r.github.io/Plants/)** — Developed a responsive landing page with an adaptive burger menu, interactive service section, accordion for pricing, and dynamic contact info, and pixel-perfect layout.
 
-- **[The devil will find you](https://w0x3r.github.io/The-devil-will-find-you/)** — The world collapsed when the king of hell took over. Everyone who tried to stop him before you is dead. In order to end this once and for all, you need to click on the button above. After you click on it, the spell book will open and the summoning of the king of hell will begin. Remember that once you click, there is no going back. If you still dare to press, then you will need to catch 10 pentagrams in order to put an end to this terrible creature once and for all. Be careful and persistent, the king of hell will try in every possible way to interfere with you, moving the pentagram to different parts of the screen.
-Good luck.
+- **[Todo](https://w0x3r.github.io/TODO-APP/)** — Developed a responsive task management app with add, complete, and delete functionality, theme switching, and persistent state using localStorage.
 
-- **[Tic Tac Toe](https://w0x3r.github.io/Tic-Tac-Toe/)** — Tic-tac-toe is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. It is a solved game, with a forced draw assuming best play from both players.
+- **[The devil will find you](https://w0x3r.github.io/The-devil-will-find-you/)** — Developed a browser game from scratch, including concept, design, mechanics, and interactive gameplay with bilingual support and audio.
 
-- **[Football-Pong](https://w0x3r.github.io/Football-Pong/)** — Football-pong is an exciting two-player game where opponents take turns clicking on the ball, sending it in a random direction towards the enemy goal! Play on the same computer, battling each other on the soccer field, and watch as each click brings the ball closer to the coveted goal. A simple but dynamic game where every move can be decisive!
+- **[Tic Tac Toe](https://w0x3r.github.io/Tic-Tac-Toe/)** — Developed a browser game with game logic, player turns, and win detection, focusing on responsive design and smooth gameplay.
 
-
-Good luck.
+- **[Football-Pong (Skillbox)](https://w0x3r.github.io/Football-Pong/)** — Developed two-player browser game focusing on game logic, animations, and responsive design.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w0x3r&show_icons=true&hide_title=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W0x3R&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
 ## 📬 How to reach me:
 
 - 📧 [Email](mailto:vyrski@yandex.by)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/stanislau-virsky-280505267/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/stanislau-vyrski-280505267/)
 - 🌍 [My Portfolio](https://w0x3r.github.io/Stanislau_Vyrski/)
