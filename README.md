@@ -1,80 +1,135 @@
-# Hello, I'm Stanislau Vyrski! 👋
+# Hi, I'm Stanislau Vyrski 👋
 
-I'm a **Frontend Developer** from Belarus. I build fast, responsive, and accessible (A11Y) web applications with clean, maintainable code. I enjoy turning complex ideas into user-friendly interfaces and working on real production projects.
+### Frontend Developer | React • Next.js • TypeScript
 
+Frontend Developer focused on building scalable, maintainable, and performant web applications using React, Next.js, and TypeScript.
 
-## 📌 Key Skills
+I work on frontend architecture, API integration, and performance optimization, with a strong focus on type safety, UX quality, and long-term code maintainability.
 
-- **Frontend Development**: HTML5, Pug, CSS3, SCSS, BEM, Tailwind CSS, JavaScript, TypeScript, React.
+---
 
-- **Performance & SEO**: Code splitting, critical CSS, Image WebP, preloading assets, font subsetting, React-lazy + Suspense, React Snap, SEO optimization (meta tags, Open Graph, JSON-LD, sitemap, robots.txt).
+## 🛠 Tech Stack
 
-- **State Management & API**: Redux Toolkit + RTK Query, localStorage, API integration (JSONPlaceholder, OpenWeather, Pexels).
+### Core
 
-- **UX & Accessibility**: Keyboard navigation, focus trap, ARIA attributes, WCAG compliance.
+TypeScript, JavaScript (ES6+), React 18/19, Next.js (App Router)
 
-- **UI & Animation**: Reusable UI components, template selectors, global animation config (GSAP).
+### State & Routing
 
-- **Form Handling**: Validation, error handling, email sending, modals with focus lock.
+TanStack Router, React Router, Redux Toolkit (RTK Query), Zustand
 
-- **Tools**: Git, GitHub, ESLint, Prettier, Webpack, Vite, Pixel Perfect.
+### API & Data Layer
 
-## 🌱 Currently learning:
-- Deepening **JS**, **React** and **TypeScript** skills.
-- Improving performance, scalability and accessibility of web applications.
+GraphQL (Codegen), REST API, Zod, React Hook Form
 
-## 🏆 Achievements
+### UI & Styling
 
-- 🔑 Developed **responsive, SEO-friendly websites using React and Vite**.
+Tailwind CSS, Shadcn/UI, SCSS (BEM), Pug, GSAP (animations)
 
-- 🪂 Implemented **modern SCSS techniques**: modular SCSS, variables, mixins.
+### Testing & Quality
 
-- 🦾 Integrated **SEO** techniques using **React Helmet** for better search engine visibility.
+Playwright (E2E), Jest, React Testing Library, ESLint, Stylelint
 
-- ⚙️ Built **fully accessible modal & form system** with keyboard navigation.
+### Tooling
 
-- 🎯 Ensured **zero UI breakage on API errors**.
+Vite, Webpack 5 (custom configurations), Git, GitHub Actions (CI/CD)
 
-- 🧩 Created **reusable design system** for consistent styling.
+---
 
-- 🧠 Applied advanced **optimization techniques**: critical CSS, lazy-loading, code splitting, font subsetting, image WebP conversion, preloading assets.
+## 💼 Experience
 
-- 📦 Delivered production-level projects under **strict deadlines and code review processes**.
+### Frontend Developer | Innowise Group
 
-- 🎮 **Game Development from Scratch** – Designed and developed the entire game from concept to implementation, including the storyline, game mechanics, and user interactions.
+**Jan 2026 — Present**
 
-- 🔅 **Theme Switching** – Implemented a feature for users to toggle between light and dark themes, which persists across app sessions.
+- Implemented JWT-based authentication with refresh rotation and HttpOnly cookies for secure session handling.
+- Introduced GraphQL Codegen for type-safe API integration and improved consistency between backend and frontend contracts.
+- Developed reusable CRUD modules for internal HRM systems using TypeScript and modern React patterns.
+- Built and maintained form systems with React Hook Form and Zod validation.
+- Implemented unit and e2e testing for critical flows using Jest and Playwright (~80% coverage).
 
-- 🏫 **Completed Aston React Intensive** — Built a Posts & Comments Viewer SPA with React, TypeScript, Redux Toolkit + RTK Query following FSD architecture.
+---
 
-- 💼 **Completed Only Digital Internship** — Delivered 6 production-like projects using JavaScript classes, OOP, TypeScript, GSAP, Pug, and SCSS/BEM under strict code review and deadlines.
+### Frontend Developer Intern | Only Digital
 
-## 📂 Projects
+**Sep 2025 — Oct 2025**
 
-- **[Posts & Comments Viewer (Aston)](https://w0x3r.github.io/React-Intensive-Project/#/posts)** — Developed a SPA using the JSONPlaceholder API with routing, global state, caching, and optimized API handling.
+- Developed interactive UI components and animations using React and GSAP.
+- Resolved race conditions and improved request stability using AbortController and debounce strategies.
+- Worked in a fast-paced environment with strict code reviews and delivery deadlines.
+- Maintained clean and consistent code structure across multiple UI projects.
 
-- **[Shower Partitions Website — Real Client Project](https://w0x3r.github.io/Showers-Gomel/)** — Developed a responsive, accessible, and SEO-optimized website for a real client using semantic HTML, SCSS Modules, full keyboard navigation, and optimized performance (lazy loading, critical CSS, WebP images, optimized font loading). Integrated React Helmet and React Snap for static pre-rendering and dynamic meta management.
+---
 
-- **[Momentum SPA (RS School)](https://w0x3r.github.io/Momentum/)** — Developed a responsive SPA with a weather widget, audio player, dynamic greeting, daily quote, and customizable UI blocks. Backgrounds update based on time of day and keyword search.
+### Freelance Frontend Developer | IP Dubrovsky D.I.
 
-- **[Shelter Landing Page (RS School)](https://w0x3r.github.io/Shelter/)** — Developed a responsive landing page with an adaptive burger menu, infinite carousel slider, custom pagination, and pixel-perfect layout.
+**Dec 2024 — Jun 2025**
 
-- **[Plants Landing Page (RS School)](https://w0x3r.github.io/Plants/)** — Developed a responsive landing page with an adaptive burger menu, interactive service section, accordion for pricing, and dynamic contact info, and pixel-perfect layout.
+- Built a commercial SPA from scratch: architecture, UI development, and performance optimization.
+- Reduced initial bundle size by ~28% using code splitting and lazy loading.
+- Improved Lighthouse scores to 95–100 through image optimization (WebP), critical CSS, and pre-rendering.
+- Implemented SEO improvements using React Helmet and structured metadata (Open Graph, Schema.org).
+- Improved accessibility through semantic markup and keyboard navigation support.
 
-- **[Todo](https://w0x3r.github.io/TODO-APP/)** — Developed a responsive task management app with add, complete, and delete functionality, theme switching, and persistent state using localStorage.
+---
 
-- **[The devil will find you](https://w0x3r.github.io/The-devil-will-find-you/)** — Developed a browser game from scratch, including concept, design, mechanics, and interactive gameplay with bilingual support and audio.
+## 🚀 Projects
 
-- **[Tic Tac Toe](https://w0x3r.github.io/Tic-Tac-Toe/)** — Developed a browser game with game logic, player turns, and win detection, focusing on responsive design and smooth gameplay.
+### HRM System (Internal) — NDA
 
-- **[Football-Pong (Skillbox)](https://w0x3r.github.io/Football-Pong/)** — Developed two-player browser game focusing on game logic, animations, and responsive design.
+**Next.js • React 19 • TypeScript • GraphQL Codegen • Zustand • Tailwind • Zod • Jest • Playwright**
 
-## 📈 GitHub Stats
+- Built a type-safe frontend architecture for internal HR management system.
+- Implemented authentication flow with protected routes and secure session handling.
+- Designed scalable state management using Zustand.
+- Added internationalization (next-intl) and theme switching support.
+- Covered critical flows with automated tests (Playwright, Jest).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W0x3R&theme=vue&show_icons=true&hide_border=true&count_private=true)
+---
 
-## 📬 How to reach me:
+### [Mini Shop SPA](https://mini-shop-woad.vercel.app)
 
-- 📧 [Email](mailto:vyrski@yandex.by)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/stanislau-vyrski-280505267/)
-- 🌍 [My Portfolio](https://w0x3r.github.io/Stanislau_Vyrski/)
+**React • Redux Toolkit • React Router • Webpack 5 • SCSS**
+
+- Built an e-commerce SPA with cart, routing, and persistent state.
+- Configured Webpack 5 from scratch (aliases, SVGR, optimizations).
+- Implemented form validation with React Hook Form and Zod.
+- Created reusable UI components (modals, galleries, notifications).
+
+---
+
+### [Commercial Website (Shower Partitions)](https://w0x3r.github.io/Showers-Gomel/)
+
+**React • Vite • SCSS Modules**
+
+- Developed a responsive and accessible landing page from scratch.
+- Implemented SEO optimization (meta tags, Open Graph, Schema.org).
+- Improved accessibility (keyboard navigation, semantic layout).
+- Optimized performance through image compression and lazy loading.
+
+---
+
+### [Posts & Comments Viewer](https://w0x3r.github.io/React-Intensive-Project/)
+
+**React • TypeScript • RTK Query • React Router • Vite**
+
+- Built a scalable SPA using Feature-Sliced Design (FSD) architecture.
+- Implemented automatic cache management and data synchronization via RTK Query.
+- Ensured strong type safety across API and UI layers using TypeScript.
+- Reduced redundant API calls and improved data flow consistency.
+
+---
+
+## 📊 GitHub Stats
+
+![Stanislau's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=W0x3R&show_icons=true&theme=vue&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=W0x3R&layout=compact&theme=vue&hide_border=true)
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [vyrski-stanislau](https://www.linkedin.com/in/stanislau-vyrski-280505267/)
+- **Email:** vyrski@yandex.by
+- **Telegram:** [@W0x3R](https://t.me/W0x3R)
+- **Portfolio:** [w0x3r.github.io/Stanislau_Vyrski/](https://w0x3r.github.io/Stanislau_Vyrski/)
