@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React • Next.js • TypeScript
 
-Frontend Developer focused on building scalable, maintainable, and performant web applications using React, Next.js, and TypeScript.
+Frontend Developer focused on building scalable, maintainable, and performant web applications using React, Next.js, and TypeScript. 
 
 I work on frontend architecture, API integration, and performance optimization, with a strong focus on type safety, UX quality, and long-term code maintainability.
 
@@ -11,27 +11,21 @@ I work on frontend architecture, API integration, and performance optimization, 
 ## 🛠 Tech Stack
 
 ### Core
-
 TypeScript, JavaScript (ES6+), React 18/19, Next.js (App Router)
 
 ### State & Routing
-
 TanStack Router, React Router, Redux Toolkit (RTK Query), Zustand
 
 ### API & Data Layer
-
 GraphQL (Codegen), REST API, Zod, React Hook Form
 
 ### UI & Styling
-
 Tailwind CSS, Shadcn/UI, SCSS (BEM), Pug, GSAP (animations)
 
 ### Testing & Quality
-
 Playwright (E2E), Jest, React Testing Library, ESLint, Stylelint
 
 ### Tooling
-
 Vite, Webpack 5 (custom configurations), Git, GitHub Actions (CI/CD)
 
 ---
@@ -39,9 +33,7 @@ Vite, Webpack 5 (custom configurations), Git, GitHub Actions (CI/CD)
 ## 💼 Experience
 
 ### Frontend Developer | Innowise Group
-
 **Jan 2026 — Present**
-
 - Implemented JWT-based authentication with refresh rotation and HttpOnly cookies for secure session handling.
 - Introduced GraphQL Codegen for type-safe API integration and improved consistency between backend and frontend contracts.
 - Developed reusable CRUD modules for internal HRM systems using TypeScript and modern React patterns.
@@ -51,9 +43,7 @@ Vite, Webpack 5 (custom configurations), Git, GitHub Actions (CI/CD)
 ---
 
 ### Frontend Developer Intern | Only Digital
-
 **Sep 2025 — Oct 2025**
-
 - Developed interactive UI components and animations using React and GSAP.
 - Resolved race conditions and improved request stability using AbortController and debounce strategies.
 - Worked in a fast-paced environment with strict code reviews and delivery deadlines.
@@ -61,10 +51,16 @@ Vite, Webpack 5 (custom configurations), Git, GitHub Actions (CI/CD)
 
 ---
 
+### Frontend Developer | Aston React Intensive
+**Aug 2025 — Sep 2025**
+- Applied Feature-Sliced Design (FSD) architecture to build a scalable and modular SPA.
+- Configured global state management and server-side caching using Redux Toolkit and RTK Query.
+- Optimized data fetching logic, reducing redundant API calls by approximately 40% through efficient cache invalidation.
+
+---
+
 ### Freelance Frontend Developer | IP Dubrovsky D.I.
-
 **Dec 2024 — Jun 2025**
-
 - Built a commercial SPA from scratch: architecture, UI development, and performance optimization.
 - Reduced initial bundle size by ~28% using code splitting and lazy loading.
 - Improved Lighthouse scores to 95–100 through image optimization (WebP), critical CSS, and pre-rendering.
@@ -76,9 +72,7 @@ Vite, Webpack 5 (custom configurations), Git, GitHub Actions (CI/CD)
 ## 🚀 Projects
 
 ### HRM System (Internal) — NDA
-
 **Next.js • React 19 • TypeScript • GraphQL Codegen • Zustand • Tailwind • Zod • Jest • Playwright**
-
 - Built a type-safe frontend architecture for internal HR management system.
 - Implemented authentication flow with protected routes and secure session handling.
 - Designed scalable state management using Zustand.
@@ -88,9 +82,7 @@ Vite, Webpack 5 (custom configurations), Git, GitHub Actions (CI/CD)
 ---
 
 ### [Mini Shop SPA](https://mini-shop-woad.vercel.app)
-
 **React • Redux Toolkit • React Router • Webpack 5 • SCSS**
-
 - Built an e-commerce SPA with cart, routing, and persistent state.
 - Configured Webpack 5 from scratch (aliases, SVGR, optimizations).
 - Implemented form validation with React Hook Form and Zod.
@@ -99,9 +91,7 @@ Vite, Webpack 5 (custom configurations), Git, GitHub Actions (CI/CD)
 ---
 
 ### [Commercial Website (Shower Partitions)](https://w0x3r.github.io/Showers-Gomel/)
-
 **React • Vite • SCSS Modules**
-
 - Developed a responsive and accessible landing page from scratch.
 - Implemented SEO optimization (meta tags, Open Graph, Schema.org).
 - Improved accessibility (keyboard navigation, semantic layout).
@@ -110,9 +100,7 @@ Vite, Webpack 5 (custom configurations), Git, GitHub Actions (CI/CD)
 ---
 
 ### [Posts & Comments Viewer](https://w0x3r.github.io/React-Intensive-Project/)
-
 **React • TypeScript • RTK Query • React Router • Vite**
-
 - Built a scalable SPA using Feature-Sliced Design (FSD) architecture.
 - Implemented automatic cache management and data synchronization via RTK Query.
 - Ensured strong type safety across API and UI layers using TypeScript.
@@ -128,7 +116,6 @@ Vite, Webpack 5 (custom configurations), Git, GitHub Actions (CI/CD)
 ---
 
 ## 📫 Contact
-
 - **LinkedIn:** [vyrski-stanislau](https://www.linkedin.com/in/stanislau-vyrski-280505267/)
 - **Email:** vyrski@yandex.by
 - **Telegram:** [@W0x3R](https://t.me/W0x3R)
