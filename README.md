@@ -147,9 +147,8 @@ I work on API integration, authentication flows, state management, forms, and fr
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=W0x3R&show_icons=true&theme=vue&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W0x3R&layout=compact&theme=vue&hide_border=true)
+![Stanislau's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=W0x3R&show_icons=true&theme=vue&hide_border=true&count_private=true) 
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=W0x3R&layout=compact&theme=vue&hide_border=true)
 
 ---
 
