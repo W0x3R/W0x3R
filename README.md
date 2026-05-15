@@ -4,56 +4,56 @@
 
 Frontend Developer focused on building modern, scalable, and high-performance web applications using React, Next.js, and TypeScript.
 
-I work on API integration, authentication flows, state management, forms, and frontend architecture. I care about performance, accessibility, maintainability, and real production-ready code.
+I work on API integration, authentication flows, state management, forms, and frontend architecture. I care about performance, accessibility, maintainability, and production-ready code.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Core
-- TypeScript
-- JavaScript (ES6+)
-- React
-- Next.js
+- TypeScript  
+- JavaScript (ES6+)  
+- React  
+- Next.js  
 
 ### State Management & Data Layer
-- Redux Toolkit (RTK Query)
-- Zustand
-- TanStack Query
-- React Router
+- Redux Toolkit (RTK Query)  
+- Zustand  
+- TanStack Query  
+- React Router  
 
 ### API & Forms
-- REST API
-- GraphQL
-- GraphQL Codegen
-- React Hook Form
-- Zod
+- REST API  
+- GraphQL  
+- GraphQL Codegen  
+- React Hook Form  
+- Zod  
 
 ### UI & Styling
-- Tailwind CSS
-- shadcn/ui
-- SCSS Modules (BEM)
-- GSAP
+- Tailwind CSS  
+- shadcn/ui  
+- SCSS Modules (BEM)  
+- GSAP  
 
 ### Testing & Tooling
-- Jest
-- React Testing Library
-- Playwright
-- Git
-- ESLint
-- Vite
-- Webpack 5
+- Jest  
+- React Testing Library  
+- Playwright  
+- Git  
+- ESLint  
+- Vite  
+- Webpack 5  
 
 ---
 
 ## 💼 Experience
 
-### Frontend Developer | Innowise Group
+### Frontend Developer | Innowise Group  
 **Jan 2026 — Present**
 
 - Developed internal HRM system using Next.js and TypeScript  
 - Implemented authentication (JWT + HttpOnly cookies)  
-- Integrated GraphQL API with GraphQL Codegen (typed data layer)  
+- Integrated GraphQL API with GraphQL Codegen  
 - Built CRUD modules and forms using React Hook Form + Zod  
 - Managed client state with Zustand  
 - Implemented unit and E2E testing (Jest + Playwright)  
@@ -61,7 +61,7 @@ I work on API integration, authentication flows, state management, forms, and fr
 
 ---
 
-### Frontend Developer Intern | Only Digital
+### Frontend Developer Intern | Only Digital  
 **Sep 2025 — Oct 2025**
 
 - Developed UI components and animations using TypeScript and GSAP  
@@ -72,7 +72,7 @@ I work on API integration, authentication flows, state management, forms, and fr
 
 ---
 
-### Frontend Developer Trainee | Aston React Intensive
+### Frontend Developer Trainee | Aston React Intensive  
 **Aug 2025 — Sep 2025**
 
 - Built SPA using React and TypeScript  
@@ -83,7 +83,7 @@ I work on API integration, authentication flows, state management, forms, and fr
 
 ---
 
-### Freelance Frontend Developer | IP Dubrovsky D.I.
+### Freelance Frontend Developer | IP Dubrovsky D.I.  
 **Dec 2024 — Jun 2025**
 
 - Developed commercial SPA using React  
@@ -97,7 +97,7 @@ I work on API integration, authentication flows, state management, forms, and fr
 ## 🚀 Projects
 
 ### HRM System (Internal Project, NDA)
-**Next.js • React • TypeScript • GraphQL Codegen • Zustand • Tailwind • shadcn/ui • Zod • Jest • Playwright**
+**Tech Stack:** Next.js • React • TypeScript • GraphQL Codegen • Zustand • Tailwind CSS • shadcn/ui • Zod • Jest • Playwright
 
 - GraphQL API integration with generated TypeScript types  
 - Authentication system with protected routes  
@@ -107,8 +107,10 @@ I work on API integration, authentication flows, state management, forms, and fr
 
 ---
 
-### Mini Shop SPA
-**React • Redux Toolkit • React Router • Webpack 5 • React Hook Form • Zod • SCSS Modules**
+### Mini Shop SPA  
+🔗 https://mini-shop-woad.vercel.app
+
+**Tech Stack:** React • Redux Toolkit • React Router • Webpack 5 • React Hook Form • Zod • SCSS Modules
 
 - E-commerce SPA with cart and auth system  
 - Persisted state with redux-persist  
@@ -118,8 +120,10 @@ I work on API integration, authentication flows, state management, forms, and fr
 
 ---
 
-### Commercial Website (Shower Partitions)
-**React • Vite • SCSS Modules**
+### Commercial Website (Shower Partitions)  
+🔗 https://w0x3r.github.io/Showers-Gomel/
+
+**Tech Stack:** React • Vite • SCSS Modules
 
 - Production website for client  
 - SEO optimization (Open Graph, Schema.org)  
@@ -129,8 +133,10 @@ I work on API integration, authentication flows, state management, forms, and fr
 
 ---
 
-### Posts & Comments Viewer
-**React • TypeScript • RTK Query • React Router • Vite**
+### Posts & Comments Viewer  
+🔗 https://w0x3r.github.io/React-Intensive-Project/
+
+**Tech Stack:** React • TypeScript • RTK Query • React Router • Vite
 
 - REST API integration using RTK Query  
 - Caching and automatic data updates  
@@ -141,14 +147,15 @@ I work on API integration, authentication flows, state management, forms, and fr
 
 ## 📊 GitHub Stats
 
-![Stanislau's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=W0x3R&show_icons=true&theme=vue&hide_border=true&count_private=true) 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=W0x3R&layout=compact&theme=vue&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=W0x3R&show_icons=true&theme=vue&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W0x3R&layout=compact&theme=vue&hide_border=true)
 
 ---
 
 ## 📫 Contact
 
 - 🌐 LinkedIn: https://www.linkedin.com/in/stanislau-vyrski-280505267/  
-- 📧 Email: vyrski@yandex.by  
+- 📧 Email: [vyrski@yandex.by](mailto:vyrski@yandex.by)  
 - ✈️ Telegram: https://t.me/W0x3R  
 - 💼 Portfolio: https://w0x3r.github.io/Stanislau_Vyrski/
