@@ -97,7 +97,7 @@ Skilled in using Node.js and Express for backend-related tasks, writing automate
 
 ### Frontend Developer | Freelance
 
-**Mar 2024 – May 2026**
+**Feb 2024 – Aug 2025**
 
 - Developed internal business applications and commercial websites
 - Built dashboards, forms, analytics modules, and management systems
