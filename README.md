@@ -2,159 +2,185 @@
 
 ## Frontend Developer | React • Next.js • TypeScript
 
-Frontend Developer focused on building modern, scalable, and high-performance web applications using React, Next.js, and TypeScript.
-
-I work on API integration, authentication flows, state management, forms, and frontend architecture. I care about performance, accessibility, maintainability, and production-ready code.
+Frontend Developer with 3+ years of hands-on experience and commercial background in building SPA and SSR applications using React and TypeScript, including Next.js App Router.
+Experienced in Feature-Sliced Design, GraphQL/REST API integrations, performance optimization, and web accessibility (a11y).
+Skilled in using Node.js and Express for backend-related tasks, writing automated tests with Jest and Playwright, and collaborating in development teams through code reviews.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Core
-- TypeScript  
-- JavaScript (ES6+)  
-- React  
-- Next.js  
+### Frontend
 
-### State Management & Data Layer
-- Redux Toolkit (RTK Query)  
-- Zustand  
-- TanStack Query  
-- React Router  
+- TypeScript
+- JavaScript (ES6+)
+- React 19
+- Next.js (App Router)
+- HTML5
+- CSS3
+- SCSS/Sass
+- Tailwind CSS
 
-### API & Forms
-- REST API  
-- GraphQL  
-- GraphQL Codegen  
-- React Hook Form  
-- Zod  
+### State Management & Data
+
+- Redux Toolkit / RTK Query
+- Zustand
+- TanStack Query
+- React Router
+- REST API
+- GraphQL
+- GraphQL Codegen
+
+### Forms & Validation
+
+- React Hook Form
+- Zod
 
 ### UI & Styling
-- Tailwind CSS  
-- shadcn/ui  
-- SCSS Modules (BEM)  
-- GSAP  
 
-### Testing & Tooling
-- Jest  
-- React Testing Library  
-- Playwright  
-- Git  
-- ESLint  
-- Vite  
-- Webpack 5  
+- shadcn/ui
+- SCSS Modules
+- BEM
+- GSAP
+
+### Testing
+
+- Jest
+- React Testing Library
+- Playwright
+
+### Tooling
+
+- Git
+- GitHub
+- ESLint
+- Vite
+- Webpack 5
+- Node.js
+- Express
 
 ---
 
 ## 💼 Experience
 
-### Frontend Developer | Innowise Group  
-**Jan 2026 — Present**
+### Frontend Developer | Innowise Group
 
-- Developed internal HRM system using Next.js and TypeScript  
-- Implemented authentication (JWT + HttpOnly cookies)  
-- Integrated GraphQL API with GraphQL Codegen  
-- Built CRUD modules and forms using React Hook Form + Zod  
-- Managed client state with Zustand  
-- Implemented unit and E2E testing (Jest + Playwright)  
-- Participated in code reviews and team workflows  
+**Jan 2026 – May 2026**
 
----
+- Developed and maintained modules for a corporate HRM system using Next.js 19, React 19, and TypeScript
+- Implemented JWT authentication with HttpOnly cookies and role-based protected routes
+- Integrated GraphQL API and GraphQL Code Generator
+- Built forms using React Hook Form and Zod
+- Managed UI state with Zustand and server state with RTK Query
+- Covered critical business flows with Jest and Playwright
+- Participated in code reviews and team development processes
 
-### Frontend Developer Intern | Only Digital  
-**Sep 2025 — Oct 2025**
+### Frontend Developer Intern | Only Digital
 
-- Developed UI components and animations using TypeScript and GSAP  
-- Worked with asynchronous requests (debounce, AbortController)  
-- Implemented forms with validation and file upload  
-- Integrated captcha protection for spam prevention  
-- Worked in team environment with code reviews and Jira  
+**Sep 2025 – Oct 2025**
 
----
+- Developed UI components and advanced animations using GSAP
+- Optimized API requests using debounce and AbortController
+- Implemented forms with validation and drag-and-drop file uploads
+- Refactored existing code and improved maintainability
+- Participated in code reviews and team workflows
 
-### Frontend Developer Trainee | Aston React Intensive  
-**Aug 2025 — Sep 2025**
+### Frontend Developer Trainee | Aston React Intensive
 
-- Built SPA using React and TypeScript  
-- Worked with Redux Toolkit and RTK Query  
-- Applied Feature-Sliced Design (FSD) architecture  
-- Configured routing and state management  
-- Ensured type-safe API integration  
+**Aug 2025 – Sep 2025**
 
----
+- Built SPA applications using React and TypeScript
+- Applied Feature-Sliced Design architecture
+- Worked with Redux Toolkit and RTK Query
+- Implemented routing and global state management
+- Built type-safe API integrations
 
-### Freelance Frontend Developer | IP Dubrovsky D.I.  
-**Dec 2024 — Jun 2025**
+### Frontend Developer | Freelance
 
-- Developed commercial SPA using React  
-- Implemented SEO optimization (Meta tags, Open Graph, Schema.org)  
-- Improved performance (lazy loading, code splitting, critical CSS)  
-- Enhanced accessibility (semantic HTML, ARIA, keyboard navigation)  
-- Optimized image loading and Lighthouse performance  
+**Mar 2024 – May 2026**
+
+- Developed internal business applications and commercial websites
+- Built dashboards, forms, analytics modules, and management systems
+- Implemented SEO optimization and accessibility improvements
+- Optimized performance using lazy loading, code splitting, and media optimization
+- Developed interactive UI features and animations using GSAP
 
 ---
 
 ## 🚀 Projects
 
-### HRM System (Internal Project, NDA)
-**Tech Stack:** Next.js • React • TypeScript • GraphQL Codegen • Zustand • Tailwind CSS • shadcn/ui • Zod • Jest • Playwright
+### 🏢 Internal HRM System (NDA)
 
-- GraphQL API integration with generated TypeScript types  
-- Authentication system with protected routes  
-- CRUD modules with validated forms  
-- Client state management using Zustand  
-- Unit & E2E test coverage for critical flows  
+**Tech Stack:**  
+Next.js 19 • React 19 • TypeScript • GraphQL • GraphQL Codegen • Zustand • RTK Query • Tailwind CSS • shadcn/ui • Jest • Playwright
+
+- Designed and developed modules for a corporate HRM system
+- Integrated GraphQL API with GraphQL Code Generator
+- Implemented JWT authentication with protected routes and role-based access control
+- Built forms using React Hook Form and Zod
+- Implemented internationalization (i18n) and theme switching
+- Covered critical business flows with unit and end-to-end tests
 
 ---
 
-### Mini Shop SPA  
+### 🏢 Request Management Portal (NDA)
+
+**Tech Stack:**  
+Next.js • React • TypeScript • TanStack Query • React Hook Form • Zod • Recharts • Tailwind CSS • REST API
+
+- Developed an internal portal for managing customer requests and client data
+- Built an analytics dashboard with charts, KPI widgets, filtering, sorting, and paginated tables
+- Integrated REST APIs with TanStack Query
+- Implemented role-based access control
+- Utilized Next.js App Router SSR capabilities
+
+---
+
+### 🛒 Mini Shop SPA
+
 🔗 https://mini-shop-woad.vercel.app
 
-**Tech Stack:** React • Redux Toolkit • React Router • Webpack 5 • React Hook Form • Zod • SCSS Modules
+**Tech Stack:**  
+React • Redux Toolkit • Redux Persist • React Router • Webpack 5 • SCSS Modules
 
-- E-commerce SPA with cart and auth system  
-- Persisted state with redux-persist  
-- Public/private routing implementation  
-- Form validation and UX improvements  
-- Webpack build optimization  
+- Developed an e-commerce application featuring a product catalog, shopping cart, authentication, and persisted application state
+- Implemented public/private routing based on authentication status
+- Added client-side form validation and error handling
+- Optimized Webpack 5 configuration with code splitting, minification, and tree shaking
 
 ---
 
-### Commercial Website (Shower Partitions)  
+### 🏗️ Commercial Landing – Shower Systems
+
 🔗 https://w0x3r.github.io/Showers-Gomel/
 
-**Tech Stack:** React • Vite • SCSS Modules
+**Tech Stack:**  
+React • React Router • Vite • SCSS Modules
 
-- Production website for client  
-- SEO optimization (Open Graph, Schema.org)  
-- Accessibility improvements  
-- Lead forms with validation  
-- Performance optimizations (lazy loading, images)  
-
----
-
-### Posts & Comments Viewer  
-🔗 https://w0x3r.github.io/React-Intensive-Project/
-
-**Tech Stack:** React • TypeScript • RTK Query • React Router • Vite
-
-- REST API integration using RTK Query  
-- Caching and automatic data updates  
-- Type-safe API layer  
-- Feature-Sliced Design architecture  
+- Delivered a commercial SPA from concept to production
+- Implemented complete SEO optimization using React Helmet, Open Graph metadata, Schema.org markup, sitemap.xml, and SSG prerendering
+- Achieved Lighthouse SEO score of 100/100
+- Achieved Lighthouse scores of Performance 91/100 and Accessibility 96/100
+- Implemented comprehensive accessibility support
+- Developed infinite carousels with thumbnails and optimized media delivery using Cloudinary
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stanislau's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=W0x3R&show_icons=true&theme=vue&hide_border=true&count_private=true) 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=W0x3R&layout=compact&theme=vue&hide_border=true)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=W0x3R&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W0x3R&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
 ## 📫 Contact
 
-- 🌐 LinkedIn: https://www.linkedin.com/in/stanislau-vyrski-280505267/  
-- 📧 Email: [vyrski@yandex.by](mailto:vyrski@yandex.by)  
-- ✈️ Telegram: https://t.me/W0x3R  
-- 💼 Portfolio: https://w0x3r.github.io/Stanislau_Vyrski/
+- **LinkedIn:** [vyrski-stanislau](https://www.linkedin.com/in/stanislau-vyrski-280505267/)
+- **Email:** vyrski@yandex.by
+- **Telegram:** [@W0x3R](https://t.me/W0x3R)
+- **Portfolio:** [w0x3r.github.io/Stanislau_Vyrski/](https://w0x3r.github.io/Stanislau_Vyrski/)
